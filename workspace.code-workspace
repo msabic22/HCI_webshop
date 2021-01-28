@@ -1,0 +1,20 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules": true,
+      "HighFidelity": true,
+      "LowFidelity": true
+    },
+    "workbench.colorCustomizations": {
+      "[Default Dark+]": {
+        "titleBar.activeBackground": "#7431b6",
+        "statusBar.background": "#7431b6"
+      }
+    }
+  }
+}

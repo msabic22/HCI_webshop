@@ -1,0 +1,1428 @@
+{
+  "products": [
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 1,
+      "imgName": "image001.jpg",
+      "name": "Ananas",
+      "price": 8.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 2,
+      "imgName": "image002.jpg",
+      "name": "Banana",
+      "price": 9.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 3,
+      "imgName": "image003.jpg",
+      "name": "Borovnica",
+      "price": 8.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 4,
+      "imgName": "image004.jpg",
+      "name": "Cripps pink jabuka",
+      "price": 7.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 5,
+      "imgName": "image005.jpg",
+      "name": "Crveni delišes jabuka",
+      "price": 7.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 6,
+      "imgName": "image006.jpg",
+      "name": "Eko banana",
+      "price": 16.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 7,
+      "imgName": "image007.jpg",
+      "name": "Gala jabuka",
+      "price": 6.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 8,
+      "imgName": "image008.jpg",
+      "name": "Grejp crveni",
+      "price": 9.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 9,
+      "imgName": "image009.jpg",
+      "name": "Grejp žuti",
+      "price": 9.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 10,
+      "imgName": "image010.jpg",
+      "name": "Grožđe crveno",
+      "price": 11.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 11,
+      "imgName": "image011.jpg",
+      "name": "Jabuka Idared",
+      "price": 6.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 12,
+      "imgName": "image012.jpg",
+      "name": "Baby špinat",
+      "price": 11.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 13,
+      "imgName": "image013.jpg",
+      "name": "Batat krumpir slatki",
+      "price": 14.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 14,
+      "imgName": "image014.jpg",
+      "name": "Bijeli kupus",
+      "price": 6.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 15,
+      "imgName": "image015.jpg",
+      "name": "Brokula",
+      "price": 14.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 16,
+      "imgName": "image016.jpg",
+      "name": "Bumbolino rajčica",
+      "price": 13.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 17,
+      "imgName": "image017.jpg",
+      "name": "Celer glava",
+      "price": 7.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 18,
+      "imgName": "image018.jpg",
+      "name": "Celer list",
+      "price": 15.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 19,
+      "imgName": "image019.jpg",
+      "name": "Celer prutići",
+      "price": 19.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 20,
+      "imgName": "image020.jpg",
+      "name": "Cherry rajčica",
+      "price": 14.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 21,
+      "imgName": "image021.jpg",
+      "name": "Cikla",
+      "price": 3.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 22,
+      "imgName": "image022.jpg",
+      "name": "Cikla kuhana",
+      "price": 8.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 23,
+      "imgName": "image023.jpg",
+      "name": "Crveni luk",
+      "price": 14.95
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 24,
+      "imgName": "image024.jpg",
+      "name": "Cešnjak",
+      "price": 24.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 25,
+      "imgName": "image025.jpg",
+      "name": "Cešnjak",
+      "price": 7.99
+    },
+    {
+      "cat1": "začin",
+      "cat2": "hrana",
+      "id": 26,
+      "imgName": "image026.jpg",
+      "name": "Dumbir",
+      "price": 24.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 27,
+      "imgName": "image027.jpg",
+      "name": "Eko mrkva",
+      "price": 9.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 28,
+      "imgName": "image028.jpg",
+      "name": "Kelj",
+      "price": 6.99
+    },
+    {
+      "cat1": "voće",
+      "cat2": "hrana",
+      "id": 29,
+      "imgName": "image029.jpg",
+      "name": "Krastavac salatni",
+      "price": 5.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 30,
+      "imgName": "image030.jpg",
+      "name": "Krumpir",
+      "price": 9.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 31,
+      "imgName": "image031.jpg",
+      "name": "Luk ljubičasti",
+      "price": 8.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 32,
+      "imgName": "image032.jpg",
+      "name": "Paprika zelena",
+      "price": 16.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 33,
+      "imgName": "image033.jpg",
+      "name": "Akvia negazirana prirodna izvorska voda",
+      "price": 2.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 34,
+      "imgName": "image034.jpg",
+      "name": "Cetina Prirodna izvorska negazirana voda",
+      "price": 4.79
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 35,
+      "imgName": "image035.jpg",
+      "name": "Donat Mg mineralna voda",
+      "price": 10.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 36,
+      "imgName": "image036.jpg",
+      "name": "Jamnica Gazirana prirodna mineralna voda",
+      "price": 4.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 37,
+      "imgName": "image037.jpg",
+      "name": "Biotta Sok ananas",
+      "price": 39.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 38,
+      "imgName": "image038.jpg",
+      "name": "Bravo nektar naranča",
+      "price": 9.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 39,
+      "imgName": "image039.jpg",
+      "name": "Burn Energetski napitak apple kiwi",
+      "price": 6.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 40,
+      "imgName": "image040.jpg",
+      "name": "Cedevita okus naranča",
+      "price": 35.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 41,
+      "imgName": "image041.jpg",
+      "name": "Coca Cola",
+      "price": 9.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 42,
+      "imgName": "image042.jpg",
+      "name": "Coca Cola Zero",
+      "price": 7.99
+    },
+    {
+      "cat1": "piće",
+      "cat2": "",
+      "id": 43,
+      "imgName": "image043.jpg",
+      "name": "Fanta Orange",
+      "price": 6.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 44,
+      "imgName": "image044.jpg",
+      "name": "Bavaria Premium Svijetlo pivo",
+      "price": 9.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 45,
+      "imgName": "image045.jpg",
+      "name": "Beck's svijetlo pivo",
+      "price": 7.49
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 46,
+      "imgName": "image046.jpg",
+      "name": "Karlovačko Svijetlo pivo",
+      "price": 13.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 47,
+      "imgName": "image047.jpg",
+      "name": "Ožujsko Svijetlo pivo",
+      "price": 7.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 48,
+      "imgName": "image048.jpg",
+      "name": "Babić kvalitetno vino Vinoplod",
+      "price": 40.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 49,
+      "imgName": "image049.jpg",
+      "name": "Bianco kvalitetno vino Terra Vinea",
+      "price": 19.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 50,
+      "imgName": "image050.jpg",
+      "name": "Cabernet Sauvignon Montes Reserva",
+      "price": 59.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 51,
+      "imgName": "image051.jpg",
+      "name": "Absolut vodka",
+      "price": 139.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 52,
+      "imgName": "image052.jpg",
+      "name": "Ballantine's Finest Scotch Whisky",
+      "price": 79.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 53,
+      "imgName": "image053.jpg",
+      "name": "Borovnička liker  Maraska",
+      "price": 54.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 54,
+      "imgName": "image054.jpg",
+      "name": "Johnnie Walker Red Label Blended scotch whisky",
+      "price": 37.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 55,
+      "imgName": "image055.jpg",
+      "name": "Alpro Napitak od badema",
+      "price": 21.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 56,
+      "imgName": "image056.jpg",
+      "name": "Alpsko Trajno mlijeko",
+      "price": 7.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 57,
+      "imgName": "image057.jpg",
+      "name": "Dukat Bio mlijeko",
+      "price": 9.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 58,
+      "imgName": "image058.jpg",
+      "name": "Dukat Čokoladno mlijeko",
+      "price": 4.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 59,
+      "imgName": "image059.jpg",
+      "name": "Dukat Fit Proteinski napitak vanilija",
+      "price": 9.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 60,
+      "imgName": "image060.jpg",
+      "name": "Dukat Svježe mlijeko",
+      "price": 9.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 61,
+      "imgName": "image061.jpg",
+      "name": "Activia jogurt s mješavinom kukuruznih i pšeničnih pahuljica",
+      "price": 7.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 62,
+      "imgName": "image062.jpg",
+      "name": "Activia muesli jagoda mix jogurt",
+      "price": 14.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 63,
+      "imgName": "image063.jpg",
+      "name": "B Aktiv LGG čvrsti jogurt",
+      "price": 3.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 64,
+      "imgName": "image064.jpg",
+      "name": "B Aktiv LGG jogurt",
+      "price": 5.44
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 65,
+      "imgName": "image065.jpg",
+      "name": "B Aktiv LGG jogurt jagoda",
+      "price": 4.64
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 66,
+      "imgName": "image066.jpg",
+      "name": "Dukat čvrsti jogurt",
+      "price": 5.44
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 67,
+      "imgName": "image067.jpg",
+      "name": "Ballarini Gorgonzola sir meki",
+      "price": 15.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 68,
+      "imgName": "image068.jpg",
+      "name": "Cheddar polutvrdi sir",
+      "price": 7.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 69,
+      "imgName": "image069.jpg",
+      "name": "Dalmatinski tvrdi sir Puđa",
+      "price": 76.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 70,
+      "imgName": "image070.jpg",
+      "name": "Dimsi polutvrdi sir u listićima Dukat",
+      "price": 16.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 71,
+      "imgName": "image071.jpg",
+      "name": "Edamac polutvrdi sir Zdenka",
+      "price": 29.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 72,
+      "imgName": "image072.jpg",
+      "name": "Svježi sir s vrhnjem",
+      "price": 7.49
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 73,
+      "imgName": "image073.jpg",
+      "name": "President svježi posni sir",
+      "price": 15.99
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 74,
+      "imgName": "image074.jpg",
+      "name": "K Plus Svježa jaja A klasa",
+      "price": 11.99
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 75,
+      "imgName": "image075.jpg",
+      "name": "Omega 3 svježa jaja A klasa",
+      "price": 15.49
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 76,
+      "imgName": "image076.jpg",
+      "name": "Svježa jaja A klasa",
+      "price": 8.13
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 77,
+      "imgName": "image077.jpg",
+      "name": "Alpinesse classic maslac",
+      "price": 24.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 78,
+      "imgName": "image078.jpg",
+      "name": "Dukat Maslac",
+      "price": 24.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 79,
+      "imgName": "image079.jpg",
+      "name": "Classic Margarin",
+      "price": 4.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 80,
+      "imgName": "image080.jpg",
+      "name": "Maslac sa začinskim biljem",
+      "price": 19.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 81,
+      "imgName": "image081.jpg",
+      "name": "Margarin s aromom vanilije",
+      "price": 6.69
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 82,
+      "imgName": "image082.jpg",
+      "name": "Cekin Pileća hrenovka classic",
+      "price": 8.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 83,
+      "imgName": "image083.jpg",
+      "name": "Gurmanika hrenovke Vindija",
+      "price": 20.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 84,
+      "imgName": "image084.jpg",
+      "name": "Kranjska kobasica",
+      "price": 23.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 85,
+      "imgName": "image085.jpg",
+      "name": "Ljuta kobasica",
+      "price": 21.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 86,
+      "imgName": "image086.jpg",
+      "name": "Belje Baranjska kobasica",
+      "price": 30.8
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 87,
+      "imgName": "image087.jpg",
+      "name": "Belje Baranjski kulen",
+      "price": 189.9
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 88,
+      "imgName": "image088.jpg",
+      "name": "Belje Dimljena slanina",
+      "price": 128.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 89,
+      "imgName": "image089.jpg",
+      "name": "Posebna kobasica",
+      "price": 10.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 90,
+      "imgName": "image090.jpg",
+      "name": "Zimska salama naresci",
+      "price": 15.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 91,
+      "imgName": "image091.jpg",
+      "name": "Dimljena šunka",
+      "price": 53.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 92,
+      "imgName": "image092.jpg",
+      "name": "Pureći parizer",
+      "price": 15.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 93,
+      "imgName": "image093.jpg",
+      "name": "Cordon Bleu od pilećeg i purećeg mesa",
+      "price": 8.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 94,
+      "imgName": "image094.jpg",
+      "name": "Pureća prsa",
+      "price": 37.96
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 95,
+      "imgName": "image095.jpg",
+      "name": "Classic pileća prsa",
+      "price": 28
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 96,
+      "imgName": "image096.jpg",
+      "name": "Gavelino Pile",
+      "price": 44.73
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 97,
+      "imgName": "image097.jpg",
+      "name": "Pileća krila",
+      "price": 22.6
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 98,
+      "imgName": "image098.jpg",
+      "name": "Pileći batak",
+      "price": 11.93
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 99,
+      "imgName": "image099.jpg",
+      "name": "Pileći batak sa zabatkom",
+      "price": 13.56
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 100,
+      "imgName": "image100.jpg",
+      "name": "Pileći medaljoni",
+      "price": 9.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 101,
+      "imgName": "image101.jpg",
+      "name": "Pureće mljeveno meso",
+      "price": 25.3
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 102,
+      "imgName": "image102.jpg",
+      "name": "Pureći batak",
+      "price": 20.33
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 103,
+      "imgName": "image103.jpg",
+      "name": "Juneća lopatica bez kosti u komadu",
+      "price": 21.69
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 104,
+      "imgName": "image104.jpg",
+      "name": "Junetina mljevena pakirano PIK",
+      "price": 23.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 105,
+      "imgName": "image105.jpg",
+      "name": "Cevapčići juneći",
+      "price": 37.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 106,
+      "imgName": "image106.jpg",
+      "name": "Svinjetina gulaš kocke",
+      "price": 23.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 107,
+      "imgName": "image107.jpg",
+      "name": "Svinjski vrat bez kosti",
+      "price": 21.99
+    },
+    {
+      "cat1": "meso",
+      "cat2": "hrana",
+      "id": 108,
+      "imgName": "image108.jpg",
+      "name": "Svinjetina mljevena pakirano PIK",
+      "price": 18.99
+    },
+    {
+      "cat1": "morski plodovi",
+      "cat2": "hrana",
+      "id": 109,
+      "imgName": "image109.jpg",
+      "name": "Jadranske kozice očišćene",
+      "price": 26.99
+    },
+    {
+      "cat1": "morski plodovi",
+      "cat2": "hrana",
+      "id": 110,
+      "imgName": "image110.jpg",
+      "name": "Jadranske lignje kolutići i krakovi",
+      "price": 46.99
+    },
+    {
+      "cat1": "morski plodovi",
+      "cat2": "hrana",
+      "id": 111,
+      "imgName": "image111.jpg",
+      "name": "Losos dimljeni norveški",
+      "price": 39.99
+    },
+    {
+      "cat1": "morski plodovi",
+      "cat2": "hrana",
+      "id": 112,
+      "imgName": "image112.jpg",
+      "name": "Brancin svježi pakirano",
+      "price": 32.99
+    },
+    {
+      "cat1": "morski plodovi",
+      "cat2": "hrana",
+      "id": 113,
+      "imgName": "image113.jpg",
+      "name": "Fileti oslića Ledo",
+      "price": 63.99
+    },
+    {
+      "cat1": "morski plodovi",
+      "cat2": "hrana",
+      "id": 114,
+      "imgName": "image114.jpg",
+      "name": "Dagnje",
+      "price": 23.99
+    },
+    {
+      "cat1": "morski plodovi",
+      "cat2": "hrana",
+      "id": 115,
+      "imgName": "image115.jpg",
+      "name": "Orada svježa pakirano",
+      "price": 49.99
+    },
+    {
+      "cat1": "tjestenina",
+      "cat2": "hrana",
+      "id": 116,
+      "imgName": "image116.jpg",
+      "name": "Svježi špageti",
+      "price": 11.39
+    },
+    {
+      "cat1": "tjestenina",
+      "cat2": "hrana",
+      "id": 117,
+      "imgName": "image117.jpg",
+      "name": "Farfalle",
+      "price": 12.99
+    },
+    {
+      "cat1": "tjestenina",
+      "cat2": "hrana",
+      "id": 118,
+      "imgName": "image118.jpg",
+      "name": "Fusilli tjestenina",
+      "price": 8.99
+    },
+    {
+      "cat1": "tjestenina",
+      "cat2": "hrana",
+      "id": 119,
+      "imgName": "image119.jpg",
+      "name": "Gnijezda tjestenina",
+      "price": 8.89
+    },
+    {
+      "cat1": "tjestenina",
+      "cat2": "hrana",
+      "id": 120,
+      "imgName": "image120.jpg",
+      "name": "Lazanje",
+      "price": 8.99
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 121,
+      "imgName": "image121.jpg",
+      "name": "Riža bijela dugo zrno",
+      "price": 7.99
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 122,
+      "imgName": "image122.jpg",
+      "name": "Riža okruglo zrno",
+      "price": 13.99
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 123,
+      "imgName": "image123.jpg",
+      "name": "Integralna riža",
+      "price": 19.99
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 124,
+      "imgName": "image124.jpg",
+      "name": "Riža za domaća jela",
+      "price": 24.99
+    },
+    {
+      "cat1": "tjestenina",
+      "cat2": "hrana",
+      "id": 125,
+      "imgName": "image125.jpg",
+      "name": "Tortelloni blitva",
+      "price": 14.99
+    },
+    {
+      "cat1": "tjestenina",
+      "cat2": "hrana",
+      "id": 126,
+      "imgName": "image126.jpg",
+      "name": "Tortelloni četiri vrste sira",
+      "price": 14.99
+    },
+    {
+      "cat1": "tjestenina",
+      "cat2": "hrana",
+      "id": 127,
+      "imgName": "image127.jpg",
+      "name": "Tortellini pršut",
+      "price": 13.99
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "hrana",
+      "id": 128,
+      "imgName": "image128.jpg",
+      "name": "Njoki",
+      "price": 20.99
+    },
+    {
+      "cat1": "Ulje",
+      "cat2": "hrana",
+      "id": 129,
+      "imgName": "image129.jpg",
+      "name": "Djevičansko maslinovo ulje",
+      "price": 36.98
+    },
+    {
+      "cat1": "ulje",
+      "cat2": "hrana",
+      "id": 130,
+      "imgName": "image130.jpg",
+      "name": "Suncokretovo ulje",
+      "price": 6.29
+    },
+    {
+      "cat1": "ulje",
+      "cat2": "hrana",
+      "id": 131,
+      "imgName": "image131.jpg",
+      "name": "Biljno ulje",
+      "price": 10.99
+    },
+    {
+      "cat1": "začin",
+      "cat2": "hrana",
+      "id": 132,
+      "imgName": "image132.jpg",
+      "name": "Kuhinjska morska sitna sol",
+      "price": 3.99
+    },
+    {
+      "cat1": "začin",
+      "cat2": "hrana",
+      "id": 133,
+      "imgName": "image133.jpg",
+      "name": "Krupna morska sol",
+      "price": 4.39
+    },
+    {
+      "cat1": "začin",
+      "cat2": "hrana",
+      "id": 134,
+      "imgName": "image134.jpg",
+      "name": "Himalajska Sitna sol",
+      "price": 24.99
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 135,
+      "imgName": "image135.jpg",
+      "name": "Pšenično glatko brašno tip 550",
+      "price": 5.19
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 136,
+      "imgName": "image136.jpg",
+      "name": "Pšenično oštro brašno tip 400",
+      "price": 6.19
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 137,
+      "imgName": "image137.jpg",
+      "name": "Brašno pšenično crno",
+      "price": 11.99
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 138,
+      "imgName": "image138.jpg",
+      "name": "Kukuruzno brašno",
+      "price": 7.99
+    },
+    {
+      "cat1": "šećer",
+      "cat2": "hrana",
+      "id": 139,
+      "imgName": "image139.jpg",
+      "name": "Bijeli Šećer",
+      "price": 5.99
+    },
+    {
+      "cat1": "šećer",
+      "cat2": "hrana",
+      "id": 140,
+      "imgName": "image140.jpg",
+      "name": "Smeđi šećer",
+      "price": 19.99
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 141,
+      "imgName": "image141.jpg",
+      "name": "Baguette bijeli",
+      "price": 3.39
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 142,
+      "imgName": "image142.jpg",
+      "name": "Baguettini sa suncokretom",
+      "price": 2.69
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 143,
+      "imgName": "image143.jpg",
+      "name": "Klipić slani",
+      "price": 2.99
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 144,
+      "imgName": "image144.jpg",
+      "name": "Kruh bakina pogača",
+      "price": 8.49
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 145,
+      "imgName": "image145.jpg",
+      "name": "Kruh proteinski",
+      "price": 12.99
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 146,
+      "imgName": "image146.jpg",
+      "name": "Plazma keksi",
+      "price": 16.99
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 147,
+      "imgName": "image147.jpg",
+      "name": "Banini Noblice Punjeno čajno pecivo kakao",
+      "price": 6.99
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 148,
+      "imgName": "image148.jpg",
+      "name": "Keksi od cjelovitih žitarica s komadićima čokolade",
+      "price": 16.19
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "",
+      "id": 149,
+      "imgName": "image149.jpg",
+      "name": "Cajni kolutići kakao keksi",
+      "price": 16.99
+    },
+    {
+      "cat1": "grickalice",
+      "cat2": "hrana",
+      "id": 150,
+      "imgName": "image150.jpg",
+      "name": "Ribice",
+      "price": 9.99
+    },
+    {
+      "cat1": "grickalice",
+      "cat2": "hrana",
+      "id": 151,
+      "imgName": "image151.jpg",
+      "name": "Kreker slani",
+      "price": 13.49
+    },
+    {
+      "cat1": "grickalice",
+      "cat2": "hrana",
+      "id": 152,
+      "imgName": "image152.jpg",
+      "name": "Pereci",
+      "price": 3.99
+    },
+    {
+      "cat1": "grickalice",
+      "cat2": "hrana",
+      "id": 153,
+      "imgName": "image153.jpg",
+      "name": "Stapići kikiriki",
+      "price": 2.99
+    },
+    {
+      "cat1": "grickalice",
+      "cat2": "hrana",
+      "id": 154,
+      "imgName": "image154.jpg",
+      "name": "Cips hot feferoni",
+      "price": 11.99
+    },
+    {
+      "cat1": "grickalice",
+      "cat2": "hrana",
+      "id": 155,
+      "imgName": "image155.jpg",
+      "name": "Cips slani",
+      "price": 11.99
+    },
+    {
+      "cat1": "mliječni proizvod",
+      "cat2": "hrana",
+      "id": 156,
+      "imgName": "image156.jpg",
+      "name": "Braco mliječna čokolada",
+      "price": 5.99
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 157,
+      "imgName": "image157.jpg",
+      "name": "Dorina čokolada s keksom",
+      "price": 6.99
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 158,
+      "imgName": "image158.jpg",
+      "name": "Dorina Čokolada za kuhanje",
+      "price": 15.99
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 159,
+      "imgName": "image159.jpg",
+      "name": "Dorina Mliječna čokolada",
+      "price": 11.99
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 160,
+      "imgName": "image160.jpg",
+      "name": "Kandi Riki Čokolada riža original",
+      "price": 15.49
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 161,
+      "imgName": "image161.jpg",
+      "name": "Kinder čokolada",
+      "price": 12.99
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 162,
+      "imgName": "image162.jpg",
+      "name": "Kinder Schoko-Bons desert",
+      "price": 15.99
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 163,
+      "imgName": "image163.jpg",
+      "name": "Milka bijela čokolada",
+      "price": 7.99
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 164,
+      "imgName": "image164.jpg",
+      "name": "Milka cijeli lješnjaci čokolada",
+      "price": 9.99
+    },
+    {
+      "cat1": "slatkiši",
+      "cat2": "hrana",
+      "id": 165,
+      "imgName": "image165.jpg",
+      "name": "Milka čokolada oreo sandwich",
+      "price": 7.99
+    },
+    {
+      "cat1": "umak",
+      "cat2": "hrana",
+      "id": 166,
+      "imgName": "image166.jpg",
+      "name": "Heinz blagi ketchup od rajčice",
+      "price": 17.99
+    },
+    {
+      "cat1": "umak",
+      "cat2": "hrana",
+      "id": 167,
+      "imgName": "image167.jpg",
+      "name": "Heinz Majoneza",
+      "price": 19.99
+    },
+    {
+      "cat1": "umak",
+      "cat2": "hrana",
+      "id": 168,
+      "imgName": "image168.jpg",
+      "name": "Ketchup blagi",
+      "price": 9.99
+    },
+    {
+      "cat1": "umak",
+      "cat2": "hrana",
+      "id": 169,
+      "imgName": "image169.jpg",
+      "name": "Podravka Senf Estragon",
+      "price": 17.99
+    },
+    {
+      "cat1": "umak",
+      "cat2": "hrana",
+      "id": 170,
+      "imgName": "image170.jpg",
+      "name": "Thomy delikatesna majoneza tuba",
+      "price": 19.49
+    },
+    {
+      "cat1": "hrana",
+      "cat2": "hrana",
+      "id": 171,
+      "imgName": "image171.jpg",
+      "name": "Zvijezda Francuska salata",
+      "price": 29.99
+    },
+    {
+      "cat1": "umak",
+      "cat2": "hrana",
+      "id": 172,
+      "imgName": "image172.jpg",
+      "name": "Tartar umak",
+      "price": 14.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 173,
+      "imgName": "image173.jpg",
+      "name": "Grašak",
+      "price": 14.99
+    },
+    {
+      "cat1": "žitarice",
+      "cat2": "hrana",
+      "id": 174,
+      "imgName": "image174.jpg",
+      "name": "Kukuruz šećerac",
+      "price": 8.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 175,
+      "imgName": "image175.jpg",
+      "name": "Cikla",
+      "price": 7.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 176,
+      "imgName": "image176.jpg",
+      "name": "Grah bijeli",
+      "price": 4.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 177,
+      "imgName": "image177.jpg",
+      "name": "Paprika filet crvena K Plus",
+      "price": 9.99
+    },
+    {
+      "cat1": "povrće",
+      "cat2": "hrana",
+      "id": 178,
+      "imgName": "image178.jpg",
+      "name": "Podravka Krastavci delikates",
+      "price": 11.99
+    }
+  ]
+}

@@ -15,11 +15,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "bootstrap": "^4.6.0",
     "gatsby": "^2.26.1",
     "gatsby-plugin-netlify-cms": "^4.9.0",
     "gatsby-plugin-sass": "^3.1.0",
     "netlify-cms-app": "^2.14.14",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.4.3",
     "react-dom": "^16.13.1",
     "sass": "^1.32.5"
   }

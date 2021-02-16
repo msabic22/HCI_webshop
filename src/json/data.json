@@ -1,0 +1,28 @@
+{
+  "user": {
+    "id": 1,
+    "firstname": "Raven",
+    "lastname": "Fordy",
+    "email": "rfordy0@arizona.edu",
+    "address": "Brooklyn Street 99",
+    "imageUrl": "https://icsb.org/wp-content/uploads/membership-profile-uploads/i-21338-evgeni-profile-new-square-bw-compressed.jpg"
+  },
+  "currentOrder": [
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 47,
+      "imgName": "image047.jpg",
+      "name": "Ožujsko Svijetlo pivo",
+      "price": 7.99
+    },
+    {
+      "cat1": "alkohol",
+      "cat2": "piće",
+      "id": 51,
+      "imgName": "image051.jpg",
+      "name": "Absolut vodka",
+      "price": 139.99
+    }
+  ]
+}

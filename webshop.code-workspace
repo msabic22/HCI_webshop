@@ -15,6 +15,9 @@
         "titleBar.activeBackground": "#7431b6",
         "statusBar.background": "#7431b6"
       }
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
     }
   }
 }

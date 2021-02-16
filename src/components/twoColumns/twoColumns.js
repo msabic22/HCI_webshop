@@ -8,8 +8,7 @@ const TwoColumns = ({ main, children, ...props }) => {
         className="mb-5"
         xs={12}
         sm={{ offset: 1, span: 10 }}
-        md={{ offset: 2, span: 8 }}
-        lg={{
+        md={{
           offset: 0,
           span: main === "right" ? 5 : main === "left" ? 7 : 6,
         }}

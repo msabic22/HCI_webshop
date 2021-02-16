@@ -13,6 +13,7 @@ const MyNavbar = () => {
               <Nav.Link href="/">Shop</Nav.Link>
             </div>
             <div className="d-flex">
+              <Nav.Link href="/blog">Blog</Nav.Link>
               <Nav.Link href="/profile">Profile</Nav.Link>
               <Nav.Link href="/cart">Cart</Nav.Link>
             </div>

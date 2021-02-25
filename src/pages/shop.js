@@ -12,6 +12,25 @@ import Button from "react-bootstrap/Button";
 import products from "../json/products.json";
 import MyNavbar from "../components/navbar/navbar";
 
+const navData = [
+  {
+    key: "az",
+    text: "A - Z",
+  },
+  {
+    key: "za",
+    text: "Z - A",
+  },
+  {
+    key: "09",
+    text: "0 - 9",
+  },
+  {
+    key: "90",
+    text: "9 - 0",
+  },
+];
+
 const Shop = () => {
   return (
     <>
@@ -31,43 +50,22 @@ const Shop = () => {
               <Accordion.Collapse eventKey="1">
                 <Card>
                   <Card.Body>
-                    <Form.Group>
-                      <Row xs={2} sm={3} md={4}>
-                        <Col key="showAll">
-                          <Form.Check
-                            type="radio"
-                            name="categories"
-                            id={"cb-ctg-showAll"}
-                            label={
-                              <label htmlFor={"cb-ctg-showAll"}>
-                                Prikaži sve
-                              </label>
-                            }
-                          ></Form.Check>
-                        </Col>
-                      </Row>
-                    </Form.Group>
+                    <Nav justify variant="tabs" defaultActiveKey="az">
+                      <Container>
+                        <Row xs={2} md={4}>
+                          {navData.map((nav) => (
+                            <Col>
+                              <Nav.Item>
+                                <Nav.Link eventKey={nav.key}>
+                                  {nav.text}
+                                </Nav.Link>
+                              </Nav.Item>
+                            </Col>
+                          ))}
+                        </Row>
+                      </Container>
+                    </Nav>
                   </Card.Body>
-                  <Card.Footer>
-                    <Row>
-                      <Col>
-                        <Nav justify variant="tabs" defaultActiveKey="az">
-                          <Nav.Item>
-                            <Nav.Link eventKey="az">A -&gt; Z</Nav.Link>
-                          </Nav.Item>
-                          <Nav.Item>
-                            <Nav.Link eventKey="za">Z -&gt; A</Nav.Link>
-                          </Nav.Item>
-                          <Nav.Item>
-                            <Nav.Link eventKey="09">0 -&gt; 9</Nav.Link>
-                          </Nav.Item>
-                          <Nav.Item>
-                            <Nav.Link eventKey="90">9 -&gt; 0</Nav.Link>
-                          </Nav.Item>
-                        </Nav>
-                      </Col>
-                    </Row>
-                  </Card.Footer>
                 </Card>
               </Accordion.Collapse>
             </Accordion>
@@ -75,13 +73,13 @@ const Shop = () => {
         </Row>
         <Row xs={1} sm={2} md={3} lg={4} className="mt-3" noGutters>
           {products.products.map((product, index) => (
-            <Col key={index} className="my-2 p-1">
-              <Card className="h-100">
+            <Col key={index} className="my-2 p-2">
+              <Card className="h-100 p-2">
                 <img className="px-2" src={"/" + product.imgName} />
                 <Card.Body className="px-3 py-2">
                   <Card.Text>{product.name}</Card.Text>
                 </Card.Body>
-                <Card.Footer className="px-3 d-flex justify-content-between">
+                <Card.Footer className="px-3 d-flex justify-content-between product">
                   <h5 className="font-weight-bold align-self-center mb-0">
                     {product.price}
                     {" €"}

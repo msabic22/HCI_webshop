@@ -6,9 +6,14 @@
   ],
   "settings": {
     "files.exclude": {
+      ".cache": true,
+      ".gitignore": true,
       "node_modules": false,
       "HighFidelity": true,
-      "LowFidelity": true
+      "LowFidelity": true,
+      "yarn.lock": true,
+      "README.md": true,
+      "package-lock.json": true
     },
     "workbench.colorCustomizations": {
       "[Default Dark+]": {

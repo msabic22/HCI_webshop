@@ -1,14 +1,20 @@
 import React from "react";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import Image from "react-bootstrap/Image";
-import Form from "react-bootstrap/Form";
-import Button from "react-bootstrap/Button";
+import {
+  Container,
+  Row,
+  Col,
+  Image,
+  Form,
+  Button,
+  Table,
+  Card,
+} from "react-bootstrap";
 import TwoColumns from "../components/twoColumns/twoColumns";
 import MyNavbar from "../components/navbar/navbar";
-
 import dataJson from "../json/data.json";
+import productsJson from "../json/data.json";
+const products = productsJson.currentOrder;
+
 const user = dataJson.user;
 const fieldsData = [
   { key: "firstname", label: "First name" },
@@ -16,7 +22,8 @@ const fieldsData = [
   { key: "email", label: "E-mail" },
   { key: "address", label: "Address" },
 ];
-export default function Profile() {
+
+const Profile = () => {
   return (
     <>
       <MyNavbar></MyNavbar>
@@ -52,9 +59,53 @@ export default function Profile() {
               ))}
             </Form>
           </div>
-          <></>
+          <div className="px-lg-4">
+            <h1>Previous orders :</h1>
+            <Card>
+              <Table responsive="sm">
+                <thead>
+                  <tr>
+                    <th></th>
+                    <th>Product Name</th>
+                    <th>Price</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {products.map((product, index) => (
+                    <tr>
+                      <td>{index + 1}</td>
+                      <td>{product.name}</td>
+                      <td>{product.price}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </Table>
+            </Card>
+            <Card className="my-3">
+              <Table responsive="sm">
+                <thead>
+                  <tr>
+                    <th></th>
+                    <th>Product Name</th>
+                    <th>Price</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {products.map((product, index) => (
+                    <tr>
+                      <td>{index + 1}</td>
+                      <td>{product.name}</td>
+                      <td>{product.price}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </Table>
+            </Card>
+          </div>
         </TwoColumns>
       </Container>
     </>
   );
-}
+};
+
+export default Profile;

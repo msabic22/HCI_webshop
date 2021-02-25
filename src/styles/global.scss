@@ -1,1 +1,88 @@
-@import "bootstrap/scss/bootstrap.scss";
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+$font-family-sans-serif: "Muli";
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 400px,
+  md: 576px,
+  lg: 992px,
+  xl: 1200px,
+) !default;
+
+$primary: #b54c2c;
+$primaryLight: #ebb8a9;
+$primaryDark: #7e321a;
+$secondary: #2c3b50;
+$secondaryLight: #d9e1f2;
+$danger: #c21c1c;
+$white: #fef8f6;
+$black: #171412;
+
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondaryLight,
+  "danger": $danger,
+);
+
+$body-bg: $secondary;
+$card-bg: $secondaryLight;
+
+$navbar-dark-color: rgba($white, 0.65);
+
+$border-radius: 0.8rem;
+$border-width: 3px;
+
+@import "~bootstrap/scss/bootstrap";
+
+.card img {
+  mix-blend-mode: multiply;
+}
+
+.order-container {
+  border-radius: $border-radius;
+}
+
+.navbar {
+  font-size: 1.5em;
+  .nav-link.active {
+    border-bottom: 4px solid $secondaryLight;
+  }
+}
+
+.card-footer {
+  &.product {
+    background-color: $primaryLight;
+  }
+  &:last-child {
+    border-radius: $border-radius;
+  }
+}
+
+.card-header:first-child {
+  background-color: $primaryLight;
+  border-radius: $border-radius;
+}
+
+.card {
+  h1 {
+    color: $black;
+  }
+  .nav-link.active {
+    background-color: $secondaryLight;
+    border-bottom-width: 4px;
+  }
+}
+
+.form-label,
+h1 {
+  color: $white;
+}
+
+.table th {
+  border-top: none;
+}
+
+.btn-outline-danger {
+  background-color: rgba($danger, 0.25);
+  color: $white;
+}

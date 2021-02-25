@@ -22,28 +22,27 @@ const user = {
 
 const Cart = () => {
   const [showModal, setShowModal] = useState(false);
-
+  const [showModal2, setShowModal2] = useState(false);
   return (
     <>
       <MyNavbar></MyNavbar>
       <Container>
         <TwoColumns main="right">
-          <Navbar variant="light" bg="light">
-            <Container className="d-flex justify-content-between">
+          <div className="order-container d-flex justify-content-between align-items-center bg-secondary font-weight-bold p-3 mt-2">
+            <div>
               {"TOTAL : "}
               {products.reduce((prev, cur) => prev + cur.price, 0).toFixed(2)}
               {" €"}
-              <Button
-                size="lg"
-                variant="dark"
-                onClick={() => {
-                  setShowModal(true);
-                }}
-              >
-                Order now!
-              </Button>
-            </Container>
-          </Navbar>
+            </div>
+            <Button
+              variant="dark"
+              onClick={() => {
+                setShowModal(true);
+              }}
+            >
+              Order now!
+            </Button>
+          </div>
           <div className="mb-5 pb-5">
             <Row xs={1}>
               {products.map((product, index) => (
@@ -73,7 +72,14 @@ const Cart = () => {
                 </Col>
               ))}
             </Row>
-            <Button block className="my-2" variant="outline-danger">
+            <Button
+              block
+              className="my-2"
+              variant="outline-danger"
+              onClick={() => {
+                setShowModal2(true);
+              }}
+            >
               EMPTY CART
             </Button>
           </div>
@@ -91,7 +97,7 @@ const Cart = () => {
               {user.email}
             </p>
           </Modal.Header>
-          <Modal.Body>
+          <Modal.Body className="py-2">
             <Table responsive="sm">
               <thead>
                 <tr>
@@ -126,6 +132,19 @@ const Cart = () => {
               <Button variant="success">Order!</Button>
             </div>
           </Modal.Footer>
+        </Modal>
+        <Modal show={showModal2} onHide={() => setShowModal2(false)}>
+          <Modal.Header className="text-center font-weigth-bold">
+            Do you realy want to empty your shopping cart?
+          </Modal.Header>
+          <Modal.Body className="d-flex justify-content-around">
+            <Button variant="success" onClick={() => setShowModal2(false)}>
+              YES
+            </Button>
+            <Button variant="danger" onClick={() => setShowModal2(false)}>
+              NO
+            </Button>
+          </Modal.Body>
         </Modal>
       </Container>
     </>

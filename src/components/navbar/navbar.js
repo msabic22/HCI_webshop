@@ -1,9 +1,11 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Container, Navbar, Nav } from "react-bootstrap";
 
 const MyNavbar = () => {
-  const url = window.location.href.split("/");
-  console.log(url);
+  const [url, setUrl] = useState("");
+  useEffect(() => {
+    setUrl(window.location.href.split("/"));
+  }, []);
   return (
     <Container fluid className="p-0 mb-5 bg-primary">
       <Container>

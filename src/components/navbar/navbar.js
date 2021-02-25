@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Container, Navbar, Nav } from "react-bootstrap";
+import { Container, Navbar, Nav, Badge } from "react-bootstrap";
 
 const MyNavbar = () => {
   const [url, setUrl] = useState("");
@@ -37,6 +37,9 @@ const MyNavbar = () => {
                 active={url.includes("cart") ? true : false}
               >
                 Cart
+                <Badge pill variant="secondary" className="ml-2">
+                  2
+                </Badge>
               </Nav.Link>
             </div>
           </Nav>

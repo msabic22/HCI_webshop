@@ -75,14 +75,6 @@
     {
       "cat1": "voće",
       "cat2": "hrana",
-      "id": 10,
-      "imgName": "image010.jpg",
-      "name": "Grožđe crveno",
-      "price": 11.99
-    },
-    {
-      "cat1": "voće",
-      "cat2": "hrana",
       "id": 11,
       "imgName": "image011.jpg",
       "name": "Jabuka Idared",

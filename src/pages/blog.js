@@ -1,23 +1,21 @@
 import React from "react";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import Card from "react-bootstrap/Card";
+import { Container, Row, Col, Card } from "react-bootstrap";
 import MyNavbar from "../components/navbar/navbar";
 import postsJson from "../json/posts.json";
+import { navigate } from "gatsby";
 
 const Blog = () => {
   return (
     <>
       <MyNavbar></MyNavbar>
-
       <Container>
         <Row xs={1} md={2}>
           {postsJson.map((post) => (
-            <Col className="py-2">
-              <Card className="h-100">
+            <Col className="py-5 px-4">
+              <Card className="h-100" onClick={() => navigate("/post")}>
                 <div
                   style={{
+                    borderRadius: "0.8rem",
                     height: "150px",
                     backgroundImage: `url(${post.image})`,
                     backgroundSize: "cover",

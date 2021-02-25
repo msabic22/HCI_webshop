@@ -125,7 +125,7 @@ const Cart = () => {
                 {" €"}
               </h5>
             </div>
-            <div className="d-flex justify-content-between w-100">
+            <div className="d-flex justify-content-around w-100">
               <Button variant="danger" onClick={() => setShowModal(false)}>
                 Cancel
               </Button>
@@ -138,11 +138,11 @@ const Cart = () => {
             Do you realy want to empty your shopping cart?
           </Modal.Header>
           <Modal.Body className="d-flex justify-content-around">
-            <Button variant="success" onClick={() => setShowModal2(false)}>
-              YES
-            </Button>
             <Button variant="danger" onClick={() => setShowModal2(false)}>
               NO
+            </Button>
+            <Button variant="success" onClick={() => setShowModal2(false)}>
+              YES
             </Button>
           </Modal.Body>
         </Modal>

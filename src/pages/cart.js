@@ -1,15 +1,15 @@
 import React, { useState } from "react";
 
-import Card from "react-bootstrap/Card";
-import Image from "react-bootstrap/Image";
-import Button from "react-bootstrap/Button";
-import Navbar from "react-bootstrap/Navbar";
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import Modal from "react-bootstrap/Modal";
-import Table from "react-bootstrap/Table";
-
+import {
+  Container,
+  Row,
+  Col,
+  Image,
+  Button,
+  Table,
+  Card,
+  Modal,
+} from "react-bootstrap";
 import TwoColumns from "../components/twoColumns/twoColumns";
 import productsJson from "../json/data.json";
 import MyNavbar from "../components/navbar/navbar";

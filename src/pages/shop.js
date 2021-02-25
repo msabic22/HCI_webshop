@@ -1,14 +1,13 @@
 import React from "react";
-
-import Container from "react-bootstrap/Container";
-import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
-import Form from "react-bootstrap/Form";
-import Accordion from "react-bootstrap/Accordion";
-import Card from "react-bootstrap/Card";
-import Nav from "react-bootstrap/Nav";
-import Button from "react-bootstrap/Button";
-
+import {
+  Container,
+  Row,
+  Col,
+  Button,
+  Card,
+  Accordion,
+  Nav,
+} from "react-bootstrap";
 import products from "../json/products.json";
 import MyNavbar from "../components/navbar/navbar";
 

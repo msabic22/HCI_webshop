@@ -1,7 +1,5 @@
 import React from "react";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
-import Container from "react-bootstrap/Container";
+import { Container, Navbar, Nav } from "react-bootstrap";
 
 const MyNavbar = () => {
   const url = window.location.href.split("/");
